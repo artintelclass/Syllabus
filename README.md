@@ -9,7 +9,7 @@ Classroom: C3 Rm. 153<br />
 Meeting Time: Monday 10:25am - 1:05pm Wednesday 11:50am - 1:05pm<br />
 Email Address: sherwood@nyu.edu<br />
 Office: C3 Rm. 163<br />
-Office Hours: By Appointment<br />
+Office Hours: TBD<br />
 Credits: 4<br />
 
 Prerequisites: Students should have taken at least one of the following courses -  Intro to IM (IM-UH 1010), Mashups (IM-UH 2110), Politics of Code (IM-UH 3110), Intro to Computer Science (CS-UH 1001), Decoding Nature (IM-UH 2118) or request specific instructor approval.
