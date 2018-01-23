@@ -100,3 +100,6 @@ The semester is organized roughly as follows:
 Required Text:
 
 - Rashid, Tariq (2016). _Make Your Own Neural Network_. CreateSpace Independent Publishing.
+
+Tools/Platforms:
+- Python, Tensorflow, Wekinator, Processing, openFrameworks, Xcode/Visual Studio, Ableton Live, Text Editor (Atom/Sublime Text)
