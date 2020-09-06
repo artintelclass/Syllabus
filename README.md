@@ -1,5 +1,9 @@
+## _For Fall 2020 course site_ [_CLICK HERE_](https://github.com/nyuad-im/artintel)
+
 # A.rt I.ntel
 _Machine Learning for Artists_
+
+
 
 Course Number: IM-2119<br />
 Prof. Aaron Sherwood<br />
