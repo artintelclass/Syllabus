@@ -5,7 +5,7 @@ _Machine Learning for Artists_
 
 
 
-Course Number: IM-2119<br />
+Course Number: IM-3312<br />
 Prof. Aaron Sherwood<br />
 NYUAD Spring 2018<br />
 Location: Abu Dhabi<br />
